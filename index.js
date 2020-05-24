@@ -1,3 +1,3 @@
 const assert = require('assert');
 
-assert.strictEqual(1, true, 'Error!');
+assert.strictEqual(1, true, 'Expected Error!');
